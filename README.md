@@ -42,24 +42,24 @@ text
 ### Opção 1: Usando o JAR pré-compilado
 1. Baixe o arquivo `Sistema_de_Eleicao.jar` da pasta `dist/`
 2. Execute com:
-```bash
+    ```bash
    java -jar Sistema_de_Eleicao.jar
-```
+    ```
 
 Opção 2: Compilando do código-fonte
 Clone o repositório:
-```bash
+    ```bash
    git clone https://github.com/GabrielGit10110/Sistema-de-Eleicao.git
-``` 
+    ``` 
 Navegue até a pasta do projeto
 
 Compile e execute com:
 
-```bash
+    ```bash
    ant compile
    ant jar
    ant run
-```
+    ```
 
 📊 **Funcionalidades**
 
